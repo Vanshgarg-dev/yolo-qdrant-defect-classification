@@ -127,10 +127,10 @@ defect_detection/
 4. Vote-based classification with confidence scoring
 
 ## Outputs
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](outputs/image.png)
+![alt text](outputs/image-1.png)
+![alt text](outputs/image-2.png)
+![alt text](outputs/image-3.png)
 ## Troubleshooting
 
 ### GPU Memory Issues
