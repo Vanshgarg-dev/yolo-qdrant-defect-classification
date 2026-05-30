@@ -157,4 +157,5 @@ iou_threshold=0.5  # instead of 0.7
 top_k=20  # instead of 15
 
 # Add more training samples to Qdrant database
-
+```
+### In collaboration with [Superteams.ai](https://www.superteams.ai/)
